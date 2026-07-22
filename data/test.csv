@@ -1,4 +1,4 @@
-load_id,posted_date,src_lat,src_long,dst_lat,dst_long,src_city,dst_city,trip_miles,equipment_type,ship_weight,market_strength,dph
+load_id,posted_date,src_lat,src_long,dst_lat,dst_long,src_city,dst_city,trip_miles,equipment_type,ship_weight,market_strength,market_profit_index
 4,2025-11-24,30.35553,-81.83281,39.81706,-86.08026,Jacksonville,Indianapolis,839,van,10027,0.3009,
 8,2025-12-12,32.26291,-110.9967,40.37178,-80.14362,Tucson,Pittsburgh,2200,reefer,29145,0.3862,
 12,2025-11-26,32.45359,-93.73942,38.9096,-104.52923,Shreveport,Colorado Springs,936,van,22506,0.4414,
